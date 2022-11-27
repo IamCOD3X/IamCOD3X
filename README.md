@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python and Hacking**
 
-- 📫 How to reach me [ImCODEX](www.instagram.com/he.tweetz)
+- 📫 How to reach me (www.instagram.com/he.tweetz)
 
 - ⚡ Fun fact **I didn't meet my type of human yet. LOL :)**
 
