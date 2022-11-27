@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ZOYA-AI<br>👯 I’m looking to collaborate on HomeAutomation<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect.
+🔭 I’m currently working on [ZOYA-AI] (https://github.com/MIDNIGHT-DEVELOPER/ZOYA-AI)<br>👯 I’m looking to collaborate on [HomeAutomation] (https://github.com/MIDNIGHT-DEVELOPER/HomeAutomation)<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect.
 
 
 ## 🌐 Socials:
