@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [ZOYA-AI] (https://github.com/MIDNIGHT-DEVELOPER/ZOYA-AI)<br>👯 I’m looking to collaborate on [HomeAutomation] (https://github.com/MIDNIGHT-DEVELOPER/HomeAutomation)<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect.
 
+![](https://komarev.com/ghpvc/?username=IamCOD3X&style=flat-square&color=brightgreen)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/PGZZ6tpU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/he.tweetz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-panchal) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/CODER__GAMING) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__decoder__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@midnightstudioz) 
