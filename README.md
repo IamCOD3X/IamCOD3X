@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
 # 💫 About Me:
 🔭 I’m currently working on [ZOYA-AI](https://github.com/IamCOD3X/ZOYA-3.0)<br>👯 I’m looking to collaborate on [HomeAutomation](https://github.com/IamCOD3X/HomeAutomation)<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect. <br> 💫 Founder- [ViP3R-KERNELs](https://github.com/ViP3R-KERNELs)<br>
 
