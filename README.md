@@ -45,7 +45,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamCOD3X&theme=transparent" />
   </a>
   <a href="https://github.com/IamCOD3X">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamCOD3X&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamCOD3X&langs_count=6&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
