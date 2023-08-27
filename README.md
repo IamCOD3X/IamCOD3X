@@ -7,7 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=IamCOD3X&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## Let's Connect 🌐:
+# Let's Connect 🌐:
 <p align="center">
 	<a href="https://github.com/IamCOD3X"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sourabh-panchal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -37,6 +37,21 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+
+# 📊 Workstation Specification:
+
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<br> 
+![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6700XT_12GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
+<br>
+![RAM](https://img.shields.io/badge/XPG+CORSAIR-16GB+16GB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+<br>
+![ROM](https://img.shields.io/badge/SSD+HDD-2.4TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+<br>
+![MB](https://img.shields.io/badge/MB-B450M-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+<div class= "container" align="center">
+
 
 # 📊 GitHub Stats:
 <p align="left">
