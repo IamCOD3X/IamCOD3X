@@ -3,7 +3,7 @@
 </div>  
 
 # 💫 About Me:
-🔭 I’m currently working on [ZOYA-AI](https://github.com/IamCOD3X/ZOYA-3.0)<br>👯 I’m looking to collaborate on [HomeAutomation](https://github.com/IamCOD3X/HomeAutomation)<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect. <br> 💫 Founder- [ViP3R-KERNELs](https://github.com/ViP3R-KERNELs)<br>
+🔭 I’m currently working on [ZOYA-AI](https://github.com/Ethereal-OS)<br>👯 I’m looking to collaborate on [HomeAutomation](https://github.com/Rthereal-OS)<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect. <br> 💫 Founder- [ViP3R-KERNELs](https://github.com/ViP3R-KERNELs)<br>
 
 [![](https://visitcount.itsvg.in/api?id=IamCOD3X&icon=0&color=1)](https://visitcount.itsvg.in)
 
