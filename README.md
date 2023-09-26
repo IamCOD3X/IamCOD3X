@@ -41,7 +41,7 @@
 
 # 📊 Workstation Specification:
 
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br> 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6750XT_12GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
 <br>
