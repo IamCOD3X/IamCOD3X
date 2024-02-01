@@ -55,7 +55,7 @@
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-3600&memory=32gb&gpu=amd-radeon-rx-6750-xt&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-5-3600/32gb/amd-radeon-rx-6750-xt/forum.png"></a>
 
 # 📊 GitHub Stats:
-<p align="left">
+<p align="center">
   <a href="https://github.com/IamCOD3X">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamCOD3X&hide_border=true&card_width=338&theme=transparent" />
   </a>
