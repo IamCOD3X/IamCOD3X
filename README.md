@@ -45,7 +45,7 @@
 <br> 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6750XT_12GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
 <br>
-![RAM](https://img.shields.io/badge/XPG+CORSAIR-16GB+16GB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+![RAM](https://img.shields.io/badge/XPG-48GB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <br>
 ![ROM](https://img.shields.io/badge/SSD+HDD-2.4TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <br>
