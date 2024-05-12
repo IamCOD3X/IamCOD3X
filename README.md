@@ -52,7 +52,7 @@
 ![MB](https://img.shields.io/badge/MB-B450M-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <div class= "container" align="center">
 
-<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-3600&memory=32gb&gpu=amd-radeon-rx-6750-xt&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-5-3600/32gb/amd-radeon-rx-6750-xt/forum.png"></a>
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-pro-3600&memory=48gb&gpu=amd-radeon-rx-6750-xt&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-5-3600/48gb/amd-radeon-rx-6750-xt/forum.png"></a>
 
 # 📊 GitHub Stats:
 <p align="center">
