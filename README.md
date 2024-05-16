@@ -12,7 +12,7 @@
 	<a href="https://iamcod3x.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sourabh-panchal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/he.tweetz/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/__DECODER__"><img src="https://img.icons8.com/bubbles/50/twitter-squared.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/IamCOD3X"><img src="https://img.icons8.com/bubbles/50/twitter-squared.png" alt="Twitter"/></a>
   	<a href="https://youtube.com/@IamCOD3X"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
   	<a href="https://twitch.tv/CODER__GAMING"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="Twitch"/></a>
  	<a href="https://medium.com/@IamCOD3X"><img src="https://img.icons8.com/bubbles/50/000000/medium-new" alt="Medium"/></a>
