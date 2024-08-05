@@ -47,7 +47,7 @@
 <br>
 ![RAM](https://img.shields.io/badge/XPG-48GB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <br>
-![ROM](https://img.shields.io/badge/SSD+HDD-2.4TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+![ROM](https://img.shields.io/badge/SSD+HDD-3.4TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <br>
 ![MB](https://img.shields.io/badge/MB-B450M-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <div class= "container" align="center">
