@@ -19,24 +19,29 @@
 	
 </p>
 
+# Let's Communicate 🗣️:
+**Hindi** : Native <br>
+**English** : Advance <br>
+**French** : Beginner <br>
+
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B&Colour=white)
-![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/Shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&Colour=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
 # 📊 Workstation Specification:
@@ -45,9 +50,9 @@
 <br> 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6750XT_12GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
 <br>
-![RAM](https://img.shields.io/badge/XPG-48GB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+![RAM](https://img.shields.io/badge/XPG-64GB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <br>
-![ROM](https://img.shields.io/badge/SSD+HDD-3.4TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+![ROM](https://img.shields.io/badge/SSD+HDD-5TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <br>
 ![MB](https://img.shields.io/badge/MB-B450M-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <div class= "container" align="center">
