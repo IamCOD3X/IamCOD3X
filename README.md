@@ -46,7 +46,7 @@
 
 # 📊 Workstation Specification:
 
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br> 
 ![GPU](https://img.shields.io/badge/AMD-Radeon_Asus_Dual_RX_6750XT_12GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
 <br>
@@ -54,10 +54,22 @@
 <br>
 ![ROM](https://img.shields.io/badge/SSD+HDD-5TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 <br>
-![MB](https://img.shields.io/badge/MB-B450M-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
-<div class= "container" align="center">
+![MB](https://img.shields.io/badge/MB-B550-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
 
-<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-5-pro-3600&memory=48gb&gpu=amd-radeon-rx-6750-xt&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-5-3600/48gb/amd-radeon-rx-6750-xt/forum.png"></a>
+# 📊 Custom Server Specification:
+
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<br> 
+![GPU](https://img.shields.io/badge/NVIDIA-GT_710_2GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
+<br>
+![RAM](https://img.shields.io/badge/CORSAIR-32GB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+<br>
+![ROM](https://img.shields.io/badge/HDD-2TB-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+<br>
+![MB](https://img.shields.io/badge/MB-B450-ED1C24?style=for-the-badge&logo=RAM&logoColor=white) 
+
+<div class= "container" align="center">
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-5800X&memory=64gb&gpu=amd-radeon-rx-6750-xt&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-5800X/64gb/amd-radeon-rx-6750-xt/forum.png"></a>
 
 # 📊 GitHub Stats:
 <p align="center">
