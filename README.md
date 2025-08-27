@@ -72,17 +72,9 @@
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-5800X&memory=64gb&gpu=amd-radeon-rx-6750-xt&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-5800X/64gb/amd-radeon-rx-6750-xt/forum.png"></a>
 
 # 📊 GitHub Stats:
-<p align="center">
-  <a href="https://github.com/IamCOD3X">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamCOD3X&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/IamCOD3X">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamCOD3X&theme=transparent" />
-  </a>
-  <a href="https://github.com/IamCOD3X">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamCOD3X&langs_count=6&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=IamCOD3X&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IamCOD3X&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamCOD3X&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
