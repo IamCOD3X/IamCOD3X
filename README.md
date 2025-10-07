@@ -3,7 +3,7 @@
 </div>  
 
 # 💫 About Me:
-🔭 I’m currently working on [Ethereal-OS](https://github.com/Ethereal-OS) | [RevoixAI](https://github.com/RevoixAI) | [ViP3R HUNTER](https://github.com/Vip3rHunterDevices)<br>👯 I’m looking to collaborate on [Ethereal-OS](https://github.com/Ethereal-OS) | [RevoixAI](https://github.com/RevoixAI)<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino & PCB Designing<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect. <br> 💫 Founder- [ViP3R-KERNELs](https://github.com/ViP3R-KERNELs) | [ETHEREAL-OS](https://github.com/Ethereal-OS) | [RevoixAI](https://github.com/RevoixAI) | [ViP3R HUNTER](https://github.com/Vip3rHunterDevices) <br>
+🔭 I’m currently working on [Ethereal-OS](https://github.com/Ethereal-OS) | [RevoixAI](https://github.com/RevoixAI) | [ViP3R HUNTER](https://github.com/Vip3rHunterDevices)<br>👯 I’m looking to collaborate on [Ethereal-OS](https://github.com/Ethereal-OS) | [RevoixAI](https://github.com/RevoixAI)<br>🤝 I’m looking for help with Arduino<br>🌱 I’m currently learning Arduino & PCB Designing<br>💬 Ask me about Python and Hacking<br>⚡ Fun fact - No one adore you until you earn some respect. <br> 💫 Founder- [ViP3R-KERNELs](https://github.com/ViP3R-KERNELs) | [ETHEREAL-OS](https://github.com/Ethereal-OS) | [RevoixAI](https://github.com/RevoixAI) | [ViP3R HUNTER](https://github.com/Vip3rHunterDevices)  <br> 👨‍💻 Research Work -  [RESEARCH](https://research.iamcod3x.dev)
 
 [![](https://visitcount.itsvg.in/api?id=IamCOD3X&icon=0&color=1)](https://visitcount.itsvg.in)
 
