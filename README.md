@@ -22,7 +22,8 @@
 # Let's Communicate 🗣️:
 **Hindi** : Native <br>
 **English** : Advance <br>
-**French** : Beginner <br>
+**German** : Beginner <br>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
