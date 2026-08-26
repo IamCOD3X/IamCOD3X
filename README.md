@@ -9,6 +9,15 @@
 <br>
 
 <div align="center">
+  <a href="https://github.com/Mirroraa">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=5000&pause=1200&color=27D3F5&center=true&vCenter=true&width=1100&lines=Coding%2C+causing+chaos%2C+and+shipping+bugs+with+%40Mirroraa.;My+favorite+dependency%3A+%40Mirroraa+%E2%9D%A4%EF%B8%8F;Built+different.+Debugging+together.+%40Mirroraa;Two+devs%2C+one+shared+braincell%3A+%40Mirroraa+%F0%9F%A4%9D;My+permanent+co-conspirator%3A+%40Mirroraa;404%3A+Solo+mode+not+found+%E2%80%94+partnered+with+%40Mirroraa;sudo+apt+install+partner-in-crime+%E2%86%92+%40Mirroraa;git+commit+-m+%22found+my+partner+in+crime%22+%E2%80%94+%40Mirroraa;Paired+programming%2C+unpaired+chaos+%E2%80%94+%40Mirroraa;My+favorite+person+to+blame+when+production+breaks%3A+%40Mirroraa+%F0%9F%98%8C;We+don%27t+create+bugs%2C+we+create+undocumented+features+%E2%80%94+with+%40Mirroraa;Partners+in+code%2C+crime%2C+and+questionable+commits+%E2%80%94+%40Mirroraa;She+has+root+access+to+my+heart+%E2%80%94+%40Mirroraa+%E2%9D%A4%EF%B8%8F;My+heart%27s+favorite+repository%3A+%40Mirroraa;Found+the+one+person+I%27d+almost+share+my+API+keys+with+%E2%80%94+%40Mirroraa+%F0%9F%94%90;My+favorite+merge+request%3A+me+%2B+%40Mirroraa;Life%27s+better+with+a+co-maintainer+%E2%80%94+%40Mirroraa;while%28alive%29+%7B+code%28%29%3B+laugh%28%29%3B+annoy%28%40Mirroraa%29%3B+%7D;%3CPartnerInCrime+username%3D%22%40Mirroraa%22+status%3D%22permanent%22+%2F%3E"
+      alt="Partner in crime: @Mirroraa"
+    />
+  </a>
+</div>
+
+<div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Systems+Builder+%7C+Python+Developer;Founder+%7C+Researcher+%7C+Open-Source+Enthusiast;Building+Ethereal-OS+and+RevoixAI;Learning+Arduino+and+PCB+Design;Exploring+Cybersecurity%2C+Hardware+and+Software"
     alt="Typing introduction"
